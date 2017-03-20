@@ -1,0 +1,58 @@
+body{
+    background-color: #1e1e1d;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+#brendon{
+    border-style: solid;
+    border-width: 10px;
+    border-color: #f0ffd8;
+    padding: 20px;
+    margin: 40px;
+    
+}
+
+#kellin{
+    border-style: dashed;
+    border-width:14px;
+    border-color: #298db5;
+    border-radius: 200px;
+    padding: 15px;
+    margin: 40px;
+}
+
+#andy{
+    border-style: ridge;
+    border-width: 20px;
+    border-color: #ffdddb;
+    margin: 40px;
+}
+
+#gerard{
+    border-style: groove;
+    border-width: 20px;
+    border-color: #771b15;
+    margin: 40px;
+}
+
+#victor{
+    border-style: inset;
+    border-width: 25px;
+    border-color: #b0fcb0;
+    margin: 40px;
+}
+
+#oliver{
+    border-style: ridge;
+    border-width: 20px;
+    border-color: #fffcbc;
+    margin: 40px;
+}
+
+.class{
+    margin-left: auto;
+    margin-right: auto;
+}
